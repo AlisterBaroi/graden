@@ -1,0 +1,74 @@
+.logo {
+    width: 8vw;
+}
+
+.ftr {
+    height: 40vh;
+    background-image: url(../images/footer.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+}
+
+.shop-heading {
+    height: 40vh;
+    background-image: url(../images/hands.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
+
+.teal {
+    background-color: #009688 !important;
+    color: #009688;
+}
+
+.text-teal {
+    color: #02aa99 !important;
+}
+
+.darkteal {
+    background-color: #00786D !important;
+}
+
+.text-darkteal {
+    color: #00786D !important;
+}
+
+.slides {
+    height: 90vh;
+}
+
+.categories {
+    /* height: 80vh; */
+}
+
+.spotlight {
+    height: 75vh;
+}
+
+.spotlight img {
+    height: 70vh;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.card {
+    width: 20vw;
+    height: 60vh;
+    opacity: 0.85;
+}
+
+.card img {
+    object-fit: cover;
+    object-position: bottom;
+    width: 100%;
+    max-height: 40vh;
+}
+
+.card:hover {
+    opacity: 1;
+    cursor: pointer;
+}
